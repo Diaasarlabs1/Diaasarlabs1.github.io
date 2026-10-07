@@ -1,0 +1,451 @@
+{
+  "BIO-P001": {
+    "file": "textures/BIO-P001.webp",
+    "format": "shampoo",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P001_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 pearly shampoo ribbon with fine lather, clean white bg"
+  },
+  "BIO-P002": {
+    "file": "textures/BIO-P002.webp",
+    "format": "shampoo",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P002_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 translucent pearly shampoo puddle, edge bubbles"
+  },
+  "BIO-P003": {
+    "file": "textures/BIO-P003.webp",
+    "format": "shampoo",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P003_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 fine lather mound with pearly trail"
+  },
+  "BIO-P004": {
+    "file": "textures/BIO-P004.webp",
+    "format": "conditioner",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P004_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 opaque white conditioner S-ribbon"
+  },
+  "BIO-P005": {
+    "file": "textures/BIO-P005.webp",
+    "format": "serum (ampoule)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P005_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear drop falling into clear pool, material only (v2, pipette removed)"
+  },
+  "BIO-P006": {
+    "file": "textures/BIO-P006.webp",
+    "format": "spray mist",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P006_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 fine clear mist droplets, very light/low-contrast on hover"
+  },
+  "BIO-P007": {
+    "file": "textures/BIO-P007.webp",
+    "format": "hair mask",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P007_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 dense white mask swirl with peak"
+  },
+  "BIO-P008": {
+    "file": "textures/BIO-P008.webp",
+    "format": "cleansing gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P008_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear gel dollop with micro bubbles"
+  },
+  "BIO-P009": {
+    "file": "textures/BIO-P009.webp",
+    "format": "micellar water",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P009_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear micellar water droplets, crisp refraction"
+  },
+  "BIO-P010": {
+    "file": "textures/BIO-P010.webp",
+    "format": "light face cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P010_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 light fluffy cream swirl with peak"
+  },
+  "BIO-P011": {
+    "file": "textures/BIO-P011.webp",
+    "format": "face mask",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P011_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 thick mask smear with brush ridges, neutral off-white"
+  },
+  "BIO-P012": {
+    "file": "textures/BIO-P012.webp",
+    "format": "face cream (SPF)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P012_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 silky white cream swipe with lifted peak (v2 material-only; v1 fingertip prompt moderation-blocked)"
+  },
+  "BIO-P013": {
+    "file": "textures/BIO-P013.webp",
+    "format": "cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P013_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 two cream dabs, smoothed + peaked"
+  },
+  "BIO-P014": {
+    "file": "textures/BIO-P014.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P014_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 domed clear serum drop + satellite"
+  },
+  "BIO-P015": {
+    "file": "textures/BIO-P015.webp",
+    "format": "cleansing gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P015_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear gel ribbon turning into white foam"
+  },
+  "BIO-P016": {
+    "file": "textures/BIO-P016.webp",
+    "format": "micellar water",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P016_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear water crown splash"
+  },
+  "BIO-P017": {
+    "file": "textures/BIO-P017.webp",
+    "format": "roll-on (lotion)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P017_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 glossy white lotion stripe"
+  },
+  "BIO-P018": {
+    "file": "textures/BIO-P018.webp",
+    "format": "roll-on (lotion)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P018_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 three parallel lotion strokes"
+  },
+  "BIO-P019": {
+    "file": "textures/BIO-P019.webp",
+    "format": "roll-on (lotion)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P019_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 lotion bead with tail"
+  },
+  "BIO-P020": {
+    "file": "textures/BIO-P020.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P020_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 fine clear serum line with beads, light visual weight"
+  },
+  "BIO-P021": {
+    "file": "textures/BIO-P021.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P021_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear viscous pour pooling"
+  },
+  "BIO-P022": {
+    "file": "textures/BIO-P022.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P022_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear serum drop with swiped smear (v2; v1 fingertip rejected per no-hands update)"
+  },
+  "BIO-P023": {
+    "file": "textures/BIO-P023.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P023_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 three graduated clear drops"
+  },
+  "BIO-P024": {
+    "file": "textures/BIO-P024.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P024_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear serum drop-to-tail swipe with bubbles (v2, pipette removed)"
+  },
+  "BIO-P025": {
+    "file": "textures/BIO-P025.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P025_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear serum smear, glossy"
+  },
+  "BIO-P026": {
+    "file": "textures/BIO-P026.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P026_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 clear droplet cluster (close to P014/P023 family)"
+  },
+  "BIO-P027": {
+    "file": "textures/BIO-P027.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P027_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 elastic clear strand lifting from viscous pool (v2, pipette removed)"
+  },
+  "BIO-P028": {
+    "file": "textures/BIO-P028.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P028_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 low-angle domed clear drop"
+  },
+  "BIO-P029": {
+    "file": "textures/BIO-P029.webp",
+    "format": "serum",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P029_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 drop with concentric ripples"
+  },
+  "BIO-P030": {
+    "file": "textures/BIO-P030.webp",
+    "format": "foaming gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P030_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 dense white foam over clear gel"
+  },
+  "BIO-P031": {
+    "file": "textures/BIO-P031.webp",
+    "format": "micellar water",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P031_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 thin clear water sheet with beads"
+  },
+  "BIO-P032": {
+    "file": "textures/BIO-P032.webp",
+    "format": "light face cream (SPF)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P032_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 light cream swipe"
+  },
+  "BIO-P033": {
+    "file": "textures/BIO-P033.webp",
+    "format": "overnight mask",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P033_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 thick cream pat with concentric swirl"
+  },
+  "BIO-P034": {
+    "file": "textures/BIO-P034.webp",
+    "format": "lip balm",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P034_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 waxy translucent-white balm swatch"
+  },
+  "BIO-P035": {
+    "file": "textures/BIO-P035.webp",
+    "format": "cream (SPF)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P035_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 tall soft-serve cream swirl"
+  },
+  "BIO-P036": {
+    "file": "textures/BIO-P036.webp",
+    "format": "body lotion",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P036_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 lotion puddle with droplets"
+  },
+  "BIO-P037": {
+    "file": "textures/BIO-P037.webp",
+    "format": "body oil",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P037_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear golden oil drop (golden per brief oil mapping)"
+  },
+  "BIO-P038": {
+    "file": "textures/BIO-P038.webp",
+    "format": "exfoliating shower gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P038_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "7/10 clear gel dollop; exfoliating grains barely visible"
+  },
+  "BIO-P039": {
+    "file": "textures/BIO-P039.webp",
+    "format": "sunscreen cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P039_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 thick white sunscreen smear"
+  },
+  "BIO-P040": {
+    "file": "textures/BIO-P040.webp",
+    "format": "sunscreen spray",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P040_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 milky-white spray droplets scatter"
+  },
+  "BIO-P041": {
+    "file": "textures/BIO-P041.webp",
+    "format": "sunscreen cream (kids)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P041_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 soft white cream dab with peak"
+  },
+  "BIO-P042": {
+    "file": "textures/BIO-P042.webp",
+    "format": "tinted BB sunscreen cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P042_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 pale beige BB smear fading to sheer edge (tint from product name 'Tinted')"
+  },
+  "BIO-P043": {
+    "file": "textures/BIO-P043.webp",
+    "format": "sunscreen fluid",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P043_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 fluid white lotion puddle"
+  },
+  "BIO-P044": {
+    "file": "textures/BIO-P044.webp",
+    "format": "sunscreen lotion",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P044_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 crossing lotion smears"
+  },
+  "BIO-P045": {
+    "file": "textures/BIO-P045.webp",
+    "format": "sunscreen stick",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P045_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 dense waxy balm stroke with drag texture"
+  },
+  "BIO-P046": {
+    "file": "textures/BIO-P046.webp",
+    "format": "sunscreen gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P046_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 translucent gel dollop with bubbles"
+  },
+  "BIO-P047": {
+    "file": "textures/BIO-P047.webp",
+    "format": "rich cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P047_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 thick rich cream mound with ridges"
+  },
+  "BIO-P048": {
+    "file": "textures/BIO-P048.webp",
+    "format": "foot cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P048_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 cream pat with dimple and trailing swipe (v2 material-only)"
+  },
+  "BIO-P049": {
+    "file": "textures/BIO-P049.webp",
+    "format": "hand cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P049_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 cream ribbon loop"
+  },
+  "BIO-P050": {
+    "file": "textures/BIO-P050.webp",
+    "format": "hand cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P050_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 glossy cream ribbon with curled end"
+  },
+  "BIO-P051": {
+    "file": "textures/BIO-P051.webp",
+    "format": "face & body lotion",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P051_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 lotion ribbon pouring and folding"
+  },
+  "BIO-P052": {
+    "file": "textures/BIO-P052.webp",
+    "format": "shower cleanser",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P052_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 pearly gel puddle with lather cushion"
+  },
+  "BIO-P053": {
+    "file": "textures/BIO-P053.webp",
+    "format": "face cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P053_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 cream dab swirl top-down"
+  },
+  "BIO-P054": {
+    "file": "textures/BIO-P054.webp",
+    "format": "cleansing gel",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P054_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear gel wave with micro bubbles"
+  },
+  "BIO-P055": {
+    "file": "textures/BIO-P055.webp",
+    "format": "baby shampoo & wash",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P055_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 gentle foam beside pearly gel"
+  },
+  "BIO-P056": {
+    "file": "textures/BIO-P056.webp",
+    "format": "baby massage oil",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P056_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear oil drops merging (kept clear, no gold)"
+  },
+  "BIO-P057": {
+    "file": "textures/BIO-P057.webp",
+    "format": "baby cologne (spray)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P057_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "8/10 light clear mist droplets"
+  },
+  "BIO-P058": {
+    "file": "textures/BIO-P058.webp",
+    "format": "diaper rash cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P058_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 thick soft cream dab with peak"
+  },
+  "BIO-P059": {
+    "file": "textures/BIO-P059.webp",
+    "format": "baby lotion",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P059_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 soft lotion puddle with curled lip"
+  },
+  "BIO-P060": {
+    "file": "textures/BIO-P060.webp",
+    "format": "baby moisturizer cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P060_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 small low cream swirl"
+  },
+  "BIO-P061": {
+    "file": "textures/BIO-P061.webp",
+    "format": "day cream (SPF)",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P061_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 wide spatula sweep of rich cream"
+  },
+  "BIO-P062": {
+    "file": "textures/BIO-P062.webp",
+    "format": "night cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P062_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 dense velvety cream with central swirl"
+  },
+  "BIO-P063": {
+    "file": "textures/BIO-P063.webp",
+    "format": "neck cream",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P063_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 long horizontal cream smear"
+  },
+  "BIO-P064": {
+    "file": "textures/BIO-P064.webp",
+    "format": "toner",
+    "prompt_file": "TEMP_HANDOFF_BIOSAR_CLAUDE_2026-10-07/generated/textures/prompts/BIO-P064_texture_prompt.txt",
+    "illustrative": true,
+    "qa": "9/10 clear droplets with small splash ring"
+  },
+  "failed": []
+}

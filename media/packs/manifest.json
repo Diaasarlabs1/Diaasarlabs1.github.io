@@ -1,0 +1,572 @@
+{
+ "BIO-P001": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Anti-Dandruff/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_ANTI-DANDRUFF_LABEL.png",
+  "sha256": "3b91b3230eadd2cb6c72c602c2cd71fa64f6d25ef8a326b4dae0fdbd9dc4d1dc",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P001_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P002": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Oil-Balancing/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_OIL-BALANCING_LABEL.png",
+  "sha256": "f5a78354b488c4de66fe1e62ef1e5fd0c61f6898eeb6654c70c2024f1cce756b",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P002_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P003": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Vitalizing/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_VITALIZING_LABEL.png",
+  "sha256": "cd5960c034c10d91d21d4008de359b5b5956a96abcff6a850fd9afc287aa7064",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P003_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P004": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Conditioner/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_CONDITIONER_LABEL.png",
+  "sha256": "983ddd9d64806f018c282b7a5df6541978aed90f354f18e2d87b81c543383385",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P004_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P005": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Serum/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_BOTTLE.png",
+  "sha256": "f10e8f54b91fd77bbc0ffb038165cf346acfc79cbce91d4a4e1f03e91e823a3f",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P005_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P006": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Biosar-Hairmical-Anti-Hair-Loss-Spray/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_ANTI-HAIR-LOSS_LABEL_100ML.png",
+  "sha256": "41e8eee00c7548b41c7bed68e4e1d45160bd8dee1ae8f931e20c82f868e2d74f",
+  "view": "spray-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P006_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P007": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HAIRMICAL/Hairmical-Anti-Hair-Loss-Mask/BIOSAR_MOCKUPS-2026-02_HAIRMICAL_ANTI-HAIR-LOSS-MASK_LABEL_300ML.png",
+  "sha256": "c20726e181b4b7fc565d9109eeed2f13db74f8a635268cfa01e7e47cc31b8769",
+  "view": "jar",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P007_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P008": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/ACNEMED/Biosar-Acnemed-Renewing-Gel-Cleanser/BIOSAR_MOCKUPS-2026-02_ACNEMED_RENEWING-GEL-CLEANSER.png",
+  "sha256": "185fb7a985398f5d7c34000798381a7090d4bb06d01b362022e456ce412aeb2c",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P008_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P009": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/ACNEMED/Biosar-Acnemed-Micellar-Water/BIOSAR_MOCKUPS-2026-02_ACNEMED_MICELLAR-WATER.png",
+  "sha256": "f10954cb646945b08f1bcc1f29bd3f354324c088e198415a1abbb3c758ce575a",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P009_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P010": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/ACNEMED/Biosar-Acnemed-Balancing-Light-Cream/BIOSAR_MOCKUPS-2026-02_ACNEMED_BALANCING-LIGHT-CREAM_LABEL.png",
+  "sha256": "b629aede31c5671c1dd1bb333ea7abc49e54cc47dfbef34a19d1970d04e8142a",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P010_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P011": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/ACNEMED/Biosar-Acnemed-Detoxifying-Mask/BIOSAR_MOCKUPS-2026-02_ACNEMED_DETOXIFYING-MASK.png",
+  "sha256": "3cd753c7762399f47e1aaf430257c9acc97e315b56ff3e06c29e59bca7e2ffac",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P011_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P012": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Biosar-Whitepurity-Whitening-Cream/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITENING-CREAM-2.png",
+  "sha256": "ff597cb4267ecdfe7e96dd35a42a7cae980a5b6f9359f83aa86d8eb555557d22",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P012_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P013": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Biosar-Whitepurity-Whitening-Cream-Sensitive-Areas/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITENING-CREAM-SENSITIVE-AREAS.png",
+  "sha256": "d9ebc11f2ad820eeefe82532f5a19ce9125610ab3ba26228dd3f91996d4d2915",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P013_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P014": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Biosar-Whitepurity-Whitening-Serum/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITENING-SERUM_LABEL.png",
+  "sha256": "0f0094979c5460195fdae958f815dacfe77a4fde48dc9b46fb53b68e3a741b99",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P014_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P015": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Whitepurity-Whitening-Gel/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITENING-GEL.png",
+  "sha256": "20c46cc2179c75d04336f61e1336d2e04a6ccb66a9cc046646e24e250186048b",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P015_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P016": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Whitepurity-Whitening-Micellar-Water/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITENING-MICELLAR-WATER.png",
+  "sha256": "45e113b5de8c84744ee79b164c785054943e7d90c0c919c225f9683e637e0d3b",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P016_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P017": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Whitepruty-Roll-On/Men/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITEPRUTY-ROLL-ON-MEN-PNG.png",
+  "sha256": "9306b10d872030d2fe491669988681c3a0c35970a579a299ec1ca8eb184ca7a4",
+  "view": "roll-on",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P017_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P018": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Whitepruty-Roll-On/Women/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITEPRUTY-ROLL-ON-WOMEN-PNG.png",
+  "sha256": "b4d1f985de7066e3fb8b8415781af19cdbf9e29bc663ea82987d55126b405d50",
+  "view": "roll-on",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P018_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P019": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/WHITEPURITY/Whitepruty-Roll-On/UNISEX/BIOSAR_MOCKUPS-2026-02_WHITEPURITY_WHITEPRUTY-ROLL-ON-UNISEX-PNG.png",
+  "sha256": "ee19b397d33ab218ea687c575fa56f84ff96fd63c9bde9d9e8247893451c7082",
+  "view": "roll-on",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P019_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P020": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Eyebrow-Eyelash-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_EYEBROW-EYELASH-SERUM-2_LABEL.png",
+  "sha256": "b55433be20514dfd8c464b4f9174f8ca93eac01462a5aaf3aa77ab6a9b4c9102",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P020_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P021": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Collagene-Plus-Vitamin-E-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_COLLAGENE-PLUS-VITAMIN-E-SERUM_LABEL.png",
+  "sha256": "9ef7783dcb7e237a48722ba9a5ee011e0c81cf4a04545017453c80d414b3325d",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P021_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P022": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Eye-Contour-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_EYE-CONTOUR-SERUM_LABEL.png",
+  "sha256": "267169596bb3f91c7ddc18c22e4e7dc1c88de63966b09614396801c6a600007f",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P022_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P023": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Cica-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_CICA-SERUM_LABEL.png",
+  "sha256": "ed1be552b6d0ba8d0511d3b6e356f59a1ccf22539145cb7051265f1045dfaf6c",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P023_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P024": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Ahaplusbha-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_AHAPLUSBHA-SERUM_LABEL.png",
+  "sha256": "7bdd657de7c8b66fd7d82ec5ba5424324d4402b735ecb2001c3bafc34c566d56",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P024_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P025": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Vitamin-Complex-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_VITAMIN-COMPLEX-SERUM_LABEL.png",
+  "sha256": "2ef44a967c64e759dff810079f9da369ba3513d4d437c6a6e73d1a42bc35fe7b",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P025_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P026": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Trenexamic-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_TRENEXAMIC-SERUM_LABEL.png",
+  "sha256": "5e8b9b025d3eaa2297ab2f879b1ffbfdcd1cfb4be14fa60fd6bbe292ffbfbcd6",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P026_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P027": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Hyaluronic-Acid-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_HYALURONIC-ACID-SERUM_LABEL.png",
+  "sha256": "d2e66a5ecd015b52da2020010e3736e042e5b342963499bc4185cbb9555ab367",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P027_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P028": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Retinol-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_RETINOL-SERUM_LABEL.png",
+  "sha256": "11b3f04ceaa2e7bcb5e40b46ba9a44c13014b12cabff32892fecc8441b527356",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P028_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P029": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SERENVIT/Serenvit-Resveratol-Serum/BIOSAR_MOCKUPS-2026-02_SERENVIT_RESVERATOL-SERUM_LABEL.png",
+  "sha256": "9c4c343bd8fcc4e1e35ed710e9f69ffcbd898ed65147c2ee04eaec06b8df477b",
+  "view": "dropper-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P029_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P030": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Cleansing-Foaming-Gel/BIOSAR_MOCKUPS-2026-02_SENSIMED_CLEANSING-FOAMING-GEL.png",
+  "sha256": "eeffc4f4db3b1a170899e65b5b0309a6f6db256d317b0fb8763e3b6bbb5db9da",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P030_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P031": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Shothing-Micellar-Water/BIOSAR_MOCKUPS-2026-02_SENSIMED_SHOTHING-MICELLAR-WATER.png",
+  "sha256": "fe7aa33f04d915c22b0606e24579b2824dba9f144fbc36ae150e10be61e191f1",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P031_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P032": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Soothing-Light-Cream/BIOSAR_MOCKUPS-2026-02_SENSIMED_SOOTHING-LIGHT-CREAM_LABEL.png",
+  "sha256": "58402a62697f87722b49036d9ca9d00f96d73d3b0e57e1e2bd72b5a63a7e3103",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P032_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P033": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Overnigth-Mask/BIOSAR_MOCKUPS-2026-02_SENSIMED_OVERNIGTH-MASK_LABEL.png",
+  "sha256": "eb1986df4f00bf941b518a613e5e18b6278d864fe2e3da25a9524ccce9a6768a",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P033_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P034": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Lip-Balm/BIOSAR_MOCKUPS-2026-02_SENSIMED_LIP-BALM-TUP_10ML.png",
+  "sha256": "d2455344de17b1d82c47b18d23e4a9d2749f6718bb28770239022c37d3ffdacb",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P034_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P035": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SENSIMED/Biosar-Sensimed-Cica-Cream/BIOSAR_MOCKUPS-2026-02_SENSIMED_CICA-CREAM-BOTTLE.png",
+  "sha256": "3a7053468dfbfc7020e2e9f17c4ae4dbe097a70a4fddf67cdb22946221e0a814",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P035_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P036": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/NUTRIVA/Biosar-Nutriva-Body-Firming-Lotion/BIOSAR_MOCKUPS-2026-02_NUTRIVA_BODY-FIRMING-LOTION.png",
+  "sha256": "5c8256cad5ca2548816cffa8af3f9dd9e5cc5a1edcefb1dea594493e50925211",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P036_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P037": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/NUTRIVA/Biosar-Nutriva-Body-Nutrition-Oil/BIOSAR_MOCKUPS-2026-02_NUTRIVA_BODY-NUTRITION-OIL.png",
+  "sha256": "dbedda461c7cca02b5d07351696020320c8d350d17dd708c95638f4f911c714f",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P037_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P038": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/NUTRIVA/Biosar-Nutriva-Shower-Gel/BIOSAR_MOCKUPS-2026-02_NUTRIVA_SHOWER-GEL_BOX.png",
+  "sha256": "89a2a78fbfbe1a662a256931306190fec0235e59654e9a082d473be5674fb1da",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P038_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P039": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Sunscreen-Cream-50-SPF/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_SUNSCREEN-CREAM-50-SPF_LABEL.png",
+  "sha256": "77aa5b837f003e774a2a568b8fbd403acc4533c2dcfd912dc67c9c692bba2dfe",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P039_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P040": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Sunscreen-Spray/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_SUNSCREEN_SPRAY_200ML.png",
+  "sha256": "9d69a967bda49e9a69bb15ee778114f2bdd61576a0aa2a7daef500e5e3ea8ed9",
+  "view": "spray-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P040_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P041": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Kids-Sunscreen-Cream-50-SPF/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_KIDS-SUNSCREEN-CREAM-50-SPF_LABEL.png",
+  "sha256": "889a5977809df1bd53415ce368557bbd015537bcc9af0be090d0d689d26ab9fe",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P041_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P042": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Bb-Sunscreen-Cream-50-SPF/01/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_BB-SUNSCREEN-CREAM-50-SPF_LABEL.png",
+  "sha256": "dbc2bf6e93a85219f01643fbec3e6c81f99d3acf1eb77d6a0b800e52d6c029f9",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P042_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P043": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Sunscreen-Oil-Control-Fluid/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_SUNSCREEN-OIL-CONTROL-FLUID_LABEL.png",
+  "sha256": "c07d9fccda73a9f9c01b5fe2b003c281b5a87e5b54d589f60289e66b15e329fd",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P043_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P044": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunprotex-Sunscreen-For-Dry-And-Senstive-Skin/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_SUNSCREEN-FOR-DRY-AND-SENSTIVE-SKIN.png",
+  "sha256": "8355986d7f0a375489f12a28dfe72d390de93e4e60607483fd3f83d97f3b97b0",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P044_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P045": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/SUNPROTEX/Biosar-Sunscreen-Stick/BIOSAR_MOCKUPS-2026-02_SUNPROTEX_SUNSCREEN_STICK.png",
+  "sha256": "94d512d6db9a2cf0979157c76ed19629497730099f2049a48fea577a7d5a9ae4",
+  "view": "stick",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P045_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P047": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Cracked-Heel-Restoring-Cream/BIOSAR_MOCKUPS-2026-02_HYDRADERM_CRACKED-HEEL-RESTORING-CREAM_LABEL.png",
+  "sha256": "ef1ef4964d9de6f711c9ff63faf68d7ca04b09f6d573aed4690d06b1bcefdf98",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P047_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P048": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Anti-Odor-Foot-Cream/BIOSAR_MOCKUPS-2026-02_HYDRADERM_ANTI-ODOR-FOOT-CREAM_LABEL.png",
+  "sha256": "c7fe891b36e4c1194350a6723ccccdfcdd8ff96bb77b3b4a6ea4e2c4c9880945",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P048_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P049": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Anti-Aging-Hand-Cream/BIOSAR_MOCKUPS-2026-02_HYDRADERM_ANTI-AGING-HAND-CREAM_LABEL.png",
+  "sha256": "adf9e5deec85468e89dcc2b3992279d2b1237c1e86f56b32a4b4bde3fd39e60e",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P049_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P050": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Antiseptic-Hand-Cream/BIOSAR_MOCKUPS-2026-02_HYDRADERM_ANTISEPTIC-HAND-CREAM_LABEL.png",
+  "sha256": "94db9d184b79384742d27925ab38269e0d2c35367ff03a4a032e02213036bacd",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P050_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P051": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Face-Body-Lotion/BIOSAR_MOCKUPS-2026-02_HYDRADERM_FACE-BODY-LOTION.png",
+  "sha256": "e71c390112df456c8321c1549e8c7071ef7fcd0099d3886ddfd422d21f298c7f",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P051_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P052": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Body-Shower-Cleanser/BIOSAR_MOCKUPS-2026-02_HYDRADERM_BODY-SHOWER-CLEANSER.png",
+  "sha256": "fa8baeefbe51a5591ce44313540737fc87081d2986ae43fd10c90c3634e362a5",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P052_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P053": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Face-Cream/BIOSAR_MOCKUPS-2026-02_HYDRADERM_FACE-CREAM-BOTTLE.png",
+  "sha256": "4fb9d44c2047eb49e18f70742df2c3d7e0f269401951ce0adf110c2fe7a3fa4b",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P053_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P054": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/HYDRADERM/Biosar-Hydraderm-Face-Gel/BIOSAR_MOCKUPS-2026-02_HYDRADERM_FACE-GEL.png",
+  "sha256": "92ad486906c59b0ce5db5f8fc1626d215997c2847889f12a4bd72b107d45ad2e",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P054_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P055": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Shampoo-And-Body-Wash/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-SHAMPOO-AND-BODY-WASH.png",
+  "sha256": "46f5177a1aa4fb3e05a7b4ce6f7a6b821d8602fd132452b32e0ea9b93718ce02",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P055_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P056": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Massage-Oil/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-MASSAGE-OIL_LABEL.png",
+  "sha256": "685bde35873b7bb3f04e91bf0f51d2ebab4a13c24295f0d864d40f0fd0c5fdd4",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P056_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P057": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Cologne/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-COLOGNE_LABEL.png",
+  "sha256": "9a14e392cfd26589fea08a5c57354fccede9940228f42d0f29740c484ef25b2f",
+  "view": "spray-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P057_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P058": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Soothing-Diaper-Rash-Cream/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-SOOTHING-DIAPER-RASH-CREAM-TUP_LABEL.png",
+  "sha256": "d5a09ed4f41a83065e2c13e32491f15bf7e707e0535602de80debc86485405c3",
+  "view": "tube",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P058_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P059": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Lotion/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-LOTION.png",
+  "sha256": "7c1e5378e9fb906d4034f3a7d6d5ad54483762b6c1161261aacd7e33547c7592",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P059_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P060": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/PURELOVE/Biosar-Purelove-Baby-Moisturizer-Cream/BIOSAR_MOCKUPS-2026-02_PURELOVE_BABY-MOISTURIZER-CREAM_LABEL.png",
+  "sha256": "a0eee909e15b441ae014d3ae6bbcfd1c4ec7a56f86cb62f00808a9f91c36678b",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P060_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P061": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/Serenity-Age/Serenity-Age-Anti-Aging-Day-Cream/BIOSAR_MOCKUPS-2026-02_SERENITY-AGE_ANTI-AGING-DAY-CREAM-ETIKET_LABEL.png",
+  "sha256": "bbada420c68a1aaca167e45933b7797e663f96eb5ae7313d85104308d3ff5dad",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P061_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P062": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/Serenity-Age/Serenity-Age-Anti-Aging-Night-Cream/BIOSAR_MOCKUPS-2026-02_SERENITY-AGE_ANTI-AGING-NIGHT-CREAM-ETIKET_LABEL.png",
+  "sha256": "2c612d1a36c8f7316304df189ae6ee6f240be92d2cdc40994aec63df734cad40",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P062_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P063": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/Serenity-Age/Serenity-Age-Anti-Aging-Neck-Decolletage-Cream/BIOSAR_MOCKUPS-2026-02_SERENITY-AGE_ANTI-AGING-NECK-DECOLLETAGE-CREAM.png",
+  "sha256": "fc4f014cda01f9ffeb17407d6c9dba11f5aabf687b86edd351e59ca3d3e02a13",
+  "view": "airless-pump-bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P063_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "BIO-P064": {
+  "source": "THE BRANDS/BIOSAR/02_PRODUCTS/Mockups-2026-02/Serenity-Age/Serenity-Age-Anti-Aging-Toner/BIOSAR_MOCKUPS-2026-02_SERENITY-AGE_ANTI-AGING-TONER.png",
+  "sha256": "a940719edcf51bbdd4b8efc9abb0aa784ad0e9b224b3abb0ebe9791505151ad4",
+  "view": "bottle",
+  "w": 960,
+  "h": 1200,
+  "cutout": "generated/packs-png/BIOSAR_BIO-P064_Pack-Cutout_v01.png",
+  "background": "removed (rembg birefnet-general), pack pixels unchanged"
+ },
+ "missing": [
+  "BIO-P046"
+ ]
+}
